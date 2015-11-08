@@ -9,8 +9,9 @@ per l'esame di Sistemi Operativi del Politecnico di Torino.
 *** FILE SYSTEM ***
 *******************
 
-L'area di Sistemi Operativi è organizzato in cartelle
-- la cartella "laib" è un'area riservata ai laboratori del corso
+L'area di Sistemi Operativi è organizzata in
+- file "sisop.pdf": contiene la teoria del corso
+- cartella "laib" è un'area riservata ai laboratori del corso
 	- una cartella "ex[n]" è un'area dedicata al laboratorio "[n]"
-- la cartella "prove" è un'area riservata ai test
+- cartella "prove" è un'area riservata ai test
 	- una cartella "prova[n]" è un'area dedicata alla prova "[n]"

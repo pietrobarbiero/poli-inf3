@@ -10,16 +10,8 @@ per il corso di Laurea in Ingegneria Informatica del Politecnico di Torino.
 *******************
 
 Il file system del repository è composto da:
-- cartella "anno I"
-- cartella "anno II"
-	- cartella "analisi matematica II"
-	- cartella "calcolatori elettronici"
-	- cartella "probabilità e statistica"
-- cartella "anno III"
-	- cartella "elettronica applicata e misure"
-	- cartella "reti di calcolatori"
-	- cartella "sistemi operativi"
-	- cartella "teoria ed elaborazione dei segnali"
+- cartella "anno I": contiene le cartelle riservate ai corsi del primo anno
+- cartella "anno II": contiene le cartelle riservate ai corsi del secondo anno
+- cartella "anno III": contiene le cartelle riservate ai corsi del terzo anno
 	
-Per quanto riguarda il file system dei singoli esami si rimanda al
-README contenuto nelle rispettive cartelle.
+Per ulteriori informazioni consultare il README delle singole cartelle
