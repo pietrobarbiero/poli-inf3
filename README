@@ -1,0 +1,25 @@
+**************************************************
+*** REPOSITORY DI INGEGNERIA DELL'INFORMAZIONE ***
+**************************************************
+
+Quest'area è stata creata come piattaforma di lavoro comune
+per il corso di Laurea in Ingegneria Informatica del Politecnico di Torino.
+
+*******************
+*** FILE SYSTEM ***
+*******************
+
+Il file system del repository è composto da:
+- cartella "anno I"
+- cartella "anno II"
+	- cartella "analisi matematica II"
+	- cartella "calcolatori elettronici"
+	- cartella "probabilità e statistica"
+- cartella "anno III"
+	- cartella "elettronica applicata e misure"
+	- cartella "reti di calcolatori"
+	- cartella "sistemi operativi"
+	- cartella "teoria ed elaborazione dei segnali"
+	
+Per quanto riguarda il file system dei singoli esami si rimanda al
+README contenuto nelle rispettive cartelle.
